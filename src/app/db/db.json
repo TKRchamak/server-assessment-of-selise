@@ -1,12 +1,13 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "event 2",
-      "start": "2023-10-22",
-      "end": "2023-10-23",
-      "allDay": true,
-      "HostName": "William"
+      "name": "Tonmoy Kumar Roy",
+      "gender": "male",
+      "age": "28",
+      "date": "2023-10-24",
+      "time": "07:14",
+      "title": "Tonmoy Kumar Roy",
+      "id": 1
     },
     {
       "name": "Tonmoy Kumar Roy",
